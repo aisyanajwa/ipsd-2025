@@ -79,7 +79,7 @@ Gunakan metrik berikut:
 - **Confusion Matrix**
 
 Bandingkan hasil ketiga model dan analisis mana yang paling baik dalam mendeteksi jamur beracun.
-
+Jelasin ya maksud metrik evaluasinya
 ---
 
 ## Output yang Diharapkan
