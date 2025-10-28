@@ -46,7 +46,6 @@ Langkah-langkah:
 - Melihat distribusi fitur seperti `odor`, `cap-color`, dan `habitat`.
 - Membuat visualisasi sederhana seperti:
   - Barplot distribusi kelas (`class`)
-  - Heatmap korelasi antar fitur setelah encoding
 
 ---
 
