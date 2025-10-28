@@ -84,7 +84,7 @@ Bandingkan hasil ketiga model dan analisis mana yang paling baik dalam mendeteks
 ## Output yang Diharapkan
 - Tabel perbandingan metrik evaluasi dari ketiga model (KNN, Naive Bayes, SVM).  
 - Visualisasi confusion matrix.  
-- Interpretasi hasil model: fitur mana yang paling berpengaruh terhadap prediksi jamur beracun
+- Interpretasi hasil model
 
 ---
 - Dijelaskan ya dari awal codenya.
